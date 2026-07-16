@@ -4,15 +4,16 @@
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Builder_Roy-AI产品-0055FF?style=flat-square&labelColor=1A1A1A" alt="Builder Roy">
-  <img src="https://img.shields.io/badge/非科班_PM-用_AI_解决真实问题-666666?style=flat-square&labelColor=1A1A1A" alt="Tagline">
+  <img src="https://img.shields.io/badge/Builder_Roy-1A1A1A?style=flat-square&labelColor=1A1A1A" alt="Builder Roy">
+  <img src="https://img.shields.io/badge/AI产品经理养成中-2E40EE?style=flat-square&labelColor=1A1A1A" alt="AI产品经理养成中">
+  <img src="https://img.shields.io/badge/用_AI_解决真实问题-666666?style=flat-square&labelColor=1A1A1A" alt="用 AI 解决真实问题">
 </p>
 
 ---
 
 <p align="center">
   我是 Builder Roy（小罗）<br>
-  一个正在<b>养成中</b>的非科班产品经理<br>
+  一个不断打怪升级的非科班AI产品经理<br>
   用 AI 把踩过的坑，做成可复用的产品工作流
 </p>
 
