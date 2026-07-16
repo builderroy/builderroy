@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Builder_Roy-产品养成中-0055FF?style=flat-square&labelColor=1A1A1A" alt="Builder Roy">
+  <img src="https://img.shields.io/badge/Builder_Roy-AI产品-0055FF?style=flat-square&labelColor=1A1A1A" alt="Builder Roy">
   <img src="https://img.shields.io/badge/非科班_PM-用_AI_解决真实问题-666666?style=flat-square&labelColor=1A1A1A" alt="Tagline">
 </p>
 
