@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Builder_Roy-666666?style=flat-square&labelColor=666666" alt="Builder Roy">
-  <img src="https://img.shields.io/badge/AI产品经理养成中-2E40EE?style=flat-square&labelColor=1A1A1A" alt="AI产品经理养成中">
-  <img src="https://img.shields.io/badge/用_AI_解决真实问题-666666?style=flat-square&labelColor=1A1A1A" alt="用 AI 解决真实问题">
+  <img src="https://img.shields.io/badge/AI产品经理养成中-2E40EE?style=flat-square&labelColor=2E40EE" alt="AI产品经理养成中">
+  <img src="https://img.shields.io/badge/用_AI_解决真实问题-666666?style=flat-square&labelColor=666666" alt="用 AI 解决真实问题">
 </p>
 
 ---
